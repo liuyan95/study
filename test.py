@@ -4,4 +4,4 @@ print 10*20
 
 print "hello world!"
 
-print hello
+print "hello"
